@@ -1,0 +1,25 @@
+# Environment
+.venv/
+env/
+*.env
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+# Ignore ESP-IDF SDK and lab folders
+esp-idf/
+ESP-IDF/
+Lab*/
+
